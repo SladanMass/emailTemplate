@@ -1,1 +1,3 @@
 # emailTemplate
+
+initial template setup
